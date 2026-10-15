@@ -2,10 +2,7 @@
 
 Another [Plex](https://www.plex.tv/) client for LG webOS televisions. based on the native solution [plx-native](https://plxnative.com/)
 
-[Install guide](https://plxnative.com/install/) ·
-[Troubleshooting](https://plxnative.com/troubleshooting/)
-
-<a href="https://trendshift.io/repositories/244171?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-244171" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/244171" alt="GLinnik21/plx-native | Trendshift" width="250" height="55"/></a>
+[Install guide (same as plx-native)](https://plxnative.com/install/) 
 
 The same install steps are in the original plx-native repo: [installation guide](docs/install-and-verify.md).*
 
