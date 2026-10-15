@@ -32,7 +32,7 @@ transcodes, Developer Mode installs included.
 
 ### Known issues
 
-Please see pax-native for known issues
+Please see plx-native for known issues
 
 ## Installing
 
